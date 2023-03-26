@@ -1,0 +1,1456 @@
+Architecture:
+  Bus:
+    - name: "BUS_1"
+      vn_kv: 66
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_2"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_3"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_4"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_5"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_6"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_7"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_8"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_9"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_10"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_11"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_12"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_13"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_14"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_15"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_16"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_17"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_18"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_19"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_20"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_21"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_22"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_23"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_24"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_25"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_26"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_27"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_28"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_29"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_30"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_31"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_32"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_33"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_34"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_35"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_36"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_37"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_38"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_39"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_40"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_41"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_42"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_43"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_44"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_45"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_46"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_47"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_48"
+      vn_kv: 66
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+    - name: "BUS_49"
+      vn_kv: 20
+      type: 'b'
+      max_vm_pu: 1.05
+      min_vm_pu: 0.95
+
+  Line:
+    - name: 'LINE_1'
+      from: 'BUS_3'
+      to: 'BUS_4'
+      length_km: 29
+      std_type: '490-AL1/64-ST1A 220.0'
+      max_loading_percent: 90
+    - name: 'LINE_2'
+      from: 'BUS_3'
+      to: 'BUS_29'
+      length_km: 10
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_3'
+      from: 'BUS_29'
+      to: 'BUS_30'
+      length_km: 10
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_4'
+      from: 'BUS_30'
+      to: 'BUS_31'
+      length_km: 1
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_5'
+      from: 'BUS_31'
+      to: 'BUS_32'
+      length_km: 5
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_6'
+      from: 'BUS_31'
+      to: 'BUS_47'
+      length_km: 5
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_7'
+      from: 'BUS_47'
+      to: 'BUS_49'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_8'
+      from: 'BUS_49'
+      to: 'BUS_46'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_9'
+      from: 'BUS_47'
+      to: 'BUS_46'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_10'
+      from: 'BUS_47'
+      to: 'BUS_45'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_11'
+      from: 'BUS_47'
+      to: 'BUS_43'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_12'
+      from: 'BUS_43'
+      to: 'BUS_44'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_13'
+      from: 'BUS_43'
+      to: 'BUS_42'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_14'
+      from: 'BUS_47'
+      to: 'BUS_42'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_15'
+      from: 'BUS_42'
+      to: 'BUS_41'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_16'
+      from: 'BUS_42'
+      to: 'BUS_40'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_17'
+      from: 'BUS_40'
+      to: 'BUS_38'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_18'
+      from: 'BUS_38'
+      to: 'BUS_39'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_19'
+      from: 'BUS_39'
+      to: 'BUS_41'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_20'
+      from: 'BUS_38'
+      to: 'BUS_37'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_21'
+      from: 'BUS_37'
+      to: 'BUS_36'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_22'
+      from: 'BUS_36'
+      to: 'BUS_35'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_23'
+      from: 'BUS_35'
+      to: 'BUS_20'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_24'
+      from: 'BUS_20'
+      to: 'BUS_19'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_25'
+      from: 'BUS_20'
+      to: 'BUS_21'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_26'
+      from: 'BUS_36'
+      to: 'BUS_22'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_27'
+      from: 'BUS_21'
+      to: 'BUS_22'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_28'
+      from: 'BUS_47'
+      to: 'BUS_20'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_29'
+      from: 'BUS_18'
+      to: 'BUS_17'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_30'
+      from: 'BUS_17'
+      to: 'BUS_16'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_31'
+      from: 'BUS_22'
+      to: 'BUS_23'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_32'
+      from: 'BUS_23'
+      to: 'BUS_24'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_33'
+      from: 'BUS_24'
+      to: 'BUS_25'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_34'
+      from: 'BUS_25'
+      to: 'BUS_16'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_35'
+      from: 'BUS_16'
+      to: 'BUS_15'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_36'
+      from: 'BUS_34'
+      to: 'BUS_24'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_37'
+      from: 'BUS_47'
+      to: 'BUS_34'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_38'
+      from: 'BUS_33'
+      to: 'BUS_34'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_39'
+      from: 'BUS_47'
+      to: 'BUS_33'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_40'
+      from: 'BUS_33'
+      to: 'BUS_26'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_41'
+      from: 'BUS_26'
+      to: 'BUS_25'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_42'
+      from: 'BUS_26'
+      to: 'BUS_27'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_43'
+      from: 'BUS_27'
+      to: 'BUS_49'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_44'
+      from: 'BUS_27'
+      to: 'BUS_28'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_45'
+      from: 'BUS_28'
+      to: 'BUS_14'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_46'
+      from: 'BUS_14'
+      to: 'BUS_15'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_47'
+      from: 'BUS_2'
+      to: 'BUS_3'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_48'
+      from: 'BUS_4'
+      to: 'BUS_5'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_49'
+      from: 'BUS_5'
+      to: 'BUS_6'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_50'
+      from: 'BUS_6'
+      to: 'BUS_7'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_51'
+      from: 'BUS_2'
+      to: 'BUS_6'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_52'
+      from: 'BUS_2'
+      to: 'BUS_13'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_53'
+      from: 'BUS_2'
+      to: 'BUS_12'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_54'
+      from: 'BUS_7'
+      to: 'BUS_8'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_55'
+      from: 'BUS_8'
+      to: 'BUS_9'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_56'
+      from: 'BUS_9'
+      to: 'BUS_10'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_57'
+      from: 'BUS_9'
+      to: 'BUS_10'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_58'
+      from: 'BUS_10'
+      to: 'BUS_11'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_59'
+      from: 'BUS_11'
+      to: 'BUS_12'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_60'
+      from: 'BUS_1'
+      to: 'BUS_48'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_61'
+      from: 'BUS_19'
+      to: 'BUS_18'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_62'
+      from: 'BUS_48'
+      to: 'BUS_47'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+    - name: 'LINE_63'
+      from: 'BUS_1'
+      to: 'BUS_2'
+      length_km: 3
+      std_type: '184-AL1/30-ST1A 20.0'
+      max_loading_percent: 90
+
+  Switch:
+    - name: 'SW_1'
+      from: 'BUS_3'
+      to: 'BUS_29'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_2'
+      from: 'BUS_31'
+      to: 'BUS_32'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_3'
+      from: 'BUS_43'
+      to: 'BUS_42'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_4'
+      from: 'BUS_38'
+      to: 'BUS_39'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_5'
+      from: 'BUS_36'
+      to: 'BUS_35'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_6'
+      from: 'BUS_36'
+      to: 'BUS_22'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_7'
+      from: 'BUS_22'
+      to: 'BUS_21'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_8'
+      from: 'BUS_17'
+      to: 'BUS_18'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_9'
+      from: 'BUS_24'
+      to: 'BUS_25'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_10'
+      from: 'BUS_16'
+      to: 'BUS_25'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_11'
+      from: 'BUS_33'
+      to: 'BUS_34'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_12'
+      from: 'BUS_28'
+      to: 'BUS_14'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_13'
+      from: 'BUS_4'
+      to: 'BUS_5'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_14'
+      from: 'BUS_6'
+      to: 'BUS_7'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_15'
+      from: 'BUS_9'
+      to: 'BUS_10'
+      et: 'b'
+      type: 'CB'
+      closed: True
+    - name: 'SW_16'
+      from: 'BUS_10'
+      to: 'BUS_11'
+      et: 'b'
+      type: 'CB'
+      closed: True
+
+  Static_Generator:
+    - name: 'SGEN_1'
+      bus: 'BUS_37'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_2'
+      bus: 'BUS_19'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_3'
+      bus: 'BUS_25'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_4'
+      bus: 'BUS_27'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_5'
+      bus: 'BUS_49'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_6'
+      bus: 'BUS_30'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_7'
+      bus: 'BUS_29'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_8'
+      bus: 'BUS_3'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_9'
+      bus: 'BUS_5'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_10'
+      bus: 'BUS_6'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_11'
+      bus: 'BUS_8'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_12'
+      bus: 'BUS_7'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_13'
+      bus: 'BUS_11'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_14'
+      bus: 'BUS_13'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_15'
+      bus: 'BUS_15'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_16'
+      bus: 'BUS_17'
+      sn_mva: 0.45
+      p_mw: 0.2
+      q_mvar: 0
+      scaling: 1
+      type: 'PV'
+    - name: 'SGEN_17'
+      bus: 'BUS_13'
+      sn_mva: 14
+      p_mw: 5
+      q_mvar: 0
+      scaling: 1
+      type: 'WF'
+
+  Load:
+    - name: 'LOAD_1'
+      bus: 'BUS_46'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_2'
+      bus: 'BUS_49'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_3'
+      bus: 'BUS_32'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_4'
+      bus: 'BUS_33'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_5'
+      bus: 'BUS_27'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_6'
+      bus: 'BUS_12'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_7'
+      bus: 'BUS_11'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_8'
+      bus: 'BUS_21'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_9'
+      bus: 'BUS_35'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_10'
+      bus: 'BUS_40'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_11'
+      bus: 'BUS_41'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_12'
+      bus: 'BUS_39'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_13'
+      bus: 'BUS_37'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_14'
+      bus: 'BUS_19'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_15'
+      bus: 'BUS_18'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_16'
+      bus: 'BUS_10'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_17'
+      bus: 'BUS_8'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_18'
+      bus: 'BUS_7'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_19'
+      bus: 'BUS_2'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_20'
+      bus: 'BUS_13'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_21'
+      bus: 'BUS_23'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_22'
+      bus: 'BUS_22'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_23'
+      bus: 'BUS_6'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_24'
+      bus: 'BUS_5'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_25'
+      bus: 'BUS_4'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_26'
+      bus: 'BUS_3'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_27'
+      bus: 'BUS_30'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_28'
+      bus: 'BUS_31'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_29'
+      bus: 'BUS_20'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_30'
+      bus: 'BUS_42'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_31'
+      bus: 'BUS_25'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_32'
+      bus: 'BUS_46'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_33'
+      bus: 'BUS_14'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_34'
+      bus: 'BUS_45'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+    - name: 'LOAD_35'
+      bus: 'BUS_44'
+      sn_mva: 2
+      p_mw: 1.2
+      q_mvar: 0.5
+      scaling: 1
+
+  Transformer:
+    - name: 'TRAFO_1'
+      hv_bus: 'BUS_1'
+      lv_bus: 'BUS_2'
+      sn_mva: 100
+      vn_hv_kv: 66
+      vn_lv_kv: 20
+      vkr_percent: 0.14
+      max_loading_percent: 80
+      vk_percent: 18
+      pfe_kw: 14
+      i0_percent: 0.07
+      tap_side: 'hv'
+      tap_max: 9
+      tap_min: -9
+      tap_pos: 0
+      tap_neutral: 0
+      tap_step_percent: 1.5
+      tap_step_degree: 0
+      tap_phase_shifter: False
+    - name: 'TRAFO_2'
+      hv_bus: 'BUS_48'
+      lv_bus: 'BUS_47'
+      sn_mva: 50
+      vn_hv_kv: 66
+      vn_lv_kv: 20
+      vkr_percent: 0.14
+      max_loading_percent: 80
+      vk_percent: 18
+      pfe_kw: 14
+      i0_percent: 0.07
+      tap_side: 'hv'
+      tap_max: 9
+      tap_min: -9
+      tap_pos: 0
+      tap_neutral: 0
+      tap_step_percent: 1.5
+      tap_step_degree: 0
+      tap_phase_shifter: False
+
+  Shunt:
+    - name: 'SHUNT_1'
+      bus: 'BUS_47'
+      q_mvar: 1
+      step: 2
+      in_service: True
+    - name: 'SHUNT_2'
+      bus: 'BUS_2'
+      q_mvar: 1
+      step: 2
+      in_service: True
+
+  External_Grid:
+    - name: 'EXT'
+      bus: 'BUS_1'
+      vm_pu: 1.0
+      va_degree: 0
+      max_p_mw: 15
+      min_p_mw: 3
+      max_q_mvar: 2
+      min_q_mvar: -2
+
+  Generator:
+    - name: 'GEN_1'
+      bus: 'BUS_47'
+      vm_pu: 1.0
+      sn_mva: 5.85
+      p_mw: 4
+      max_p_mw: 5
+      min_p_mw: 0
+      max_q_mvar: 2
+      min_q_mvar: -2
+      type: 'G02_mazut'
+    - name: 'GEN_2'
+      bus: 'BUS_47'
+      vm_pu: 1.0
+      sn_mva: 5.85
+      p_mw: 4
+      max_p_mw: 5
+      min_p_mw: 0
+      max_q_mvar: 2
+      min_q_mvar: -2
+      type: 'G03_mazut'
+    - name: 'GEN_3'
+      bus: 'BUS_47'
+      vm_pu: 1.0
+      sn_mva: 10
+      p_mw: 4
+      max_p_mw: 9
+      min_p_mw: 0
+      max_q_mvar: 2
+      min_q_mvar: -2
+      type: 'G06_mazut'
+    - name: 'GEN_4'
+      bus: 'BUS_47'
+      vm_pu: 1.0
+      sn_mva: 11
+      p_mw: 4
+      max_p_mw: 10
+      min_p_mw: 0
+      max_q_mvar: 2
+      min_q_mvar: -2
+      type: 'G08_mazut'
+    - name: 'GEN_5'
+      bus: 'BUS_47'
+      vm_pu: 1.0
+      sn_mva: 11
+      p_mw: 4
+      max_p_mw: 10
+      min_p_mw: 0
+      max_q_mvar: 2
+      min_q_mvar: -2
+      type: 'G09_mazut'
+    - name: 'GEN_6'
+      bus: 'BUS_47'
+      vm_pu: 1.0
+      sn_mva: 10.36
+      p_mw: 4
+      max_p_mw: 10
+      min_p_mw: 0
+      max_q_mvar: 2
+      min_q_mvar: -2
+      type: 'G10_mazut'
+    - name: 'GEN_7'
+      bus: 'BUS_47'
+      vm_pu: 1.0
+      sn_mva: 11
+      p_mw: 4
+      max_p_mw: 10
+      min_p_mw: 0
+      max_q_mvar: 2
+      min_q_mvar: -2
+      type: 'G11_mazut'
+  Measurement: {}
+  Storage: {}
+  Cost_Functions: {}
+
+Controllable_Elements:
+  SGEN_1:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 1
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 1
+  SGEN_2:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 1
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 1
+  SGEN_3:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 1
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 1
+  SGEN_4:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 2
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 2
+  SGEN_5:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 2
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 2
+  SGEN_6:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 2
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 2
+  SGEN_7:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 2
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 2
+  SGEN_8:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 2
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 2
+  SGEN_9:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 1
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 1
+  SGEN_10:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 1
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 1
+  SGEN_11:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 3
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 3
+  SGEN_12:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 3
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 3
+  SGEN_13:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 4
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 4
+  SGEN_14:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 4
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 4
+  SGEN_15:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 4
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 4
+  SGEN_16:
+    inverter_mvar_percent:
+      type: 'continuous'
+      upper: 0.5
+      lower: -0.5
+      zone: 3
+    ap_curtailment:
+      type: 'continuous'
+      upper: 0.8
+      lower: 0
+      zone: 3
+  GEN_1:
+    p_mw:
+      type: 'continuous'
+      upper: 4
+      lower: 0
+    vm_pu:
+      type: 'discrete'
+      upper: 1.05
+      lower: 0.95
+  GEN_2:
+    p_mw:
+      type: 'continuous'
+      upper: 4
+      lower: 0
+    vm_pu:
+      type: 'discrete'
+      upper: 1.05
+      lower: 0.95
+  GEN_3:
+    p_mw:
+      type: 'continuous'
+      upper: 8
+      lower: 0
+    vm_pu:
+      type: 'discrete'
+      upper: 1.05
+      lower: 0.95
+  GEN_4:
+    p_mw:
+      type: 'continuous'
+      upper: 8
+      lower: 0
+    vm_pu:
+      type: 'discrete'
+      upper: 1.05
+      lower: 0.95
+  GEN_5:
+    p_mw:
+      type: 'continuous'
+      upper: 8
+      lower: 0
+    vm_pu:
+      type: 'discrete'
+      upper: 1.05
+      lower: 0.95
+  GEN_6:
+    p_mw:
+      type: 'continuous'
+      upper: 8
+      lower: 0
+    vm_pu:
+      type: 'discrete'
+      upper: 1.05
+      lower: 0.95
+  GEN_7:
+    p_mw:
+      type: 'continuous'
+      upper: 8
+      lower: 0
+    vm_pu:
+      type: 'discrete'
+      upper: 1.05
+      lower: 0.95
+  SHUNT_1:
+    step:
+      type: 'discrete'
+      upper: 4
+      lower: 0
+  SHUNT_2:
+    step:
+      type: 'discrete'
+      upper: 4
+      lower: 0
+  TRAFO_1:
+    tap_pos:
+      type: 'discrete'
+      upper: 4
+      lower: -4
+  TRAFO_2:
+    tap_pos:
+      type: 'discrete'
+      upper: 4
+      lower: -4
